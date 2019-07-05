@@ -9,4 +9,8 @@ Directly change from remote. Directly on master.
 This change is from feature456 branch.
 combined master and feature456 branchs. Now looks good.
 
+
 Directly change from master and remote.
+
+Testing Rebase command. change from local.
+change to test rebase. commit from local
